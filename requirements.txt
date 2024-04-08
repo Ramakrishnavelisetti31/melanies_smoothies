@@ -8,4 +8,4 @@
 
 snowflake-connecter-python
 snowflake-snowpark-python
-streamlit=1.31.0
+streamlit==1.31.0
